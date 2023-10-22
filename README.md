@@ -1,4 +1,3 @@
-#Demo
 - 👋 Hi, I’m weijunjiang. I am from Jiangxi china
 - 🏫 I'm a university student from JXUST
 - 👀 I’m interested in skateboarding, listening to music
