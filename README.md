@@ -23,12 +23,6 @@ Here are some of the technologies and tools I work with:
   <img src="https://img.shields.io/badge/React-EA4C6C?style=for-the-badge&logo=react&logoColor=white" alt="React" />
 </p>
 
-### My GitHub Stats
-
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=weijunjiang123&show_icons=true&locale=en&layout=compact&theme=radical" alt="weijunjiang123" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=weijunjiang123&show_icons=true&locale=en&theme=radical" alt="weijunjiang123" />
-</p>
 
 
 ### Let's Connect
